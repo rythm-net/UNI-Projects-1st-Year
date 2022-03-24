@@ -1,3 +1,0 @@
-C:/Users/PC/CLionProjects/Exercise 9/cmake-build-debug/CMakeFiles/Exercise_9.dir
-C:/Users/PC/CLionProjects/Exercise 9/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/PC/CLionProjects/Exercise 9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
