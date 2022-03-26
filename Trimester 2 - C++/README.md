@@ -4,6 +4,3 @@
 * Discipline - **Programming with C++ | Програмиране със C++**
 * Integrated Development Environment (IDE) - [**JetBrains CLion**](https://www.jetbrains.com/clion/)
 * **10 Exercises**
-
-
-
