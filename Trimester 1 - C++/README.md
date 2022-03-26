@@ -1,4 +1,4 @@
-<h2 align="center">Plovdiv University (PU) - Informatics - First Year, First Trimester</h2>
+<h1 align="center">Plovdiv University (PU) - Informatics - First Year, First Trimester</h1>
 
 ### Overall Information
 * Discipline - **Introduction to Computer Science with C++ | Въведение в компютърните науки със C++**
