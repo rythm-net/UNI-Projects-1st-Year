@@ -1,1 +1,1 @@
-# UNI-Projects-1st-Year
+# Plovdiv University (PU) - Informatics - First Year
