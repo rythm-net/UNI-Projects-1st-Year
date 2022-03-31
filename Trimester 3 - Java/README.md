@@ -1,4 +1,4 @@
-<h2 align="center">Plovdiv University (PU) - Informatics - First Year, Third Semester</h2>
+<h2 align="center">Plovdiv University (PU) - Informatics - First Year, Third Trimester</h2>
 
 ### Overall Information
 * Discipline - **Programming with Java | Програмиране с Java**
