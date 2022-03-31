@@ -1,4 +1,4 @@
-<h2 align="center">Plovdiv University (PU) - Informatics - First Year, Second Semester</h2>
+<h2 align="center">Plovdiv University (PU) - Informatics - First Year, Second Trimester</h2>
 
 ### Overall Information
 * Discipline - **Programming with C++ | Програмиране със C++**
